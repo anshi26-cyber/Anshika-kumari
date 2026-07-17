@@ -1,69 +1,79 @@
-# Hi there, I'm Anshika Kumari 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Anshika Kumari
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Student;Backend+Developer+%7C+Django+Developer;Python+%7C+C%2B%2B+%7C+REST+APIs;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;AI%2FML+Enthusiast;Python+Developer;Django+%7C+REST+API+Developer;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anshi26-cyber">
-    <img src="https://img.shields.io/github/followers/anshi26-cyber?label=Followers&style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development%20withAI-blue?style=for-the-badge">
+
+<img src="https://komarev.com/ghpvc/?username=anshi26-cyber&label=Profile+Views&style=for-the-badge&color=blue" />
+
+<img src="https://img.shields.io/github/followers/anshi26-cyber?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering%20%2B%20AI%2FML-blueviolet?style=for-the-badge"/>
+
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 **B.Tech Computer Science Engineering (AI & ML)**
-📍 **Lakshmi Narain College of Technology, Bhopal**
+🎓 B.Tech CSE (AI & ML) at **LNCT Bhopal**
 
-I enjoy building scalable web applications and solving real-world problems through software. My primary interests are backend development, data structures & algorithms, and artificial intelligence.
+💻 Passionate about Software Engineering, Backend Development and Artificial Intelligence.
 
-### What I'm working on
+I enjoy building scalable applications that solve real-world problems while continuously improving my problem-solving and system design skills.
 
-* 🚀 Building real-world Django applications
-* 📚 Practicing Data Structures & Algorithms
-* 🤖 Learning AI/ML and REST API development
-* 🌱 Exploring Full Stack Development
-* 🎯 Preparing for Software Engineering roles
+### 🚀 Currently
+
+- 📚 Solving DSA problems every day
+- 💻 Building Django & AI projects
+- 🌱 Learning Django REST Framework
+- 🤖 Exploring Machine Learning
+- ☁️ Learning Cloud Technologies
+- 🎯 Preparing for Software Engineering roles
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cpp"/>
 </p>
 
-### Web Development
+### Backend & Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,html,css,js" />
+<img src="https://skillicons.dev/icons?i=django,html,css,js"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ### Core CS
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* DBMS
-* REST APIs
+✔ Data Structures & Algorithms
+
+✔ Object Oriented Programming
+
+✔ Operating Systems
+
+✔ DBMS
+
+✔ REST APIs
 
 ---
 
@@ -71,51 +81,51 @@ I enjoy building scalable web applications and solving real-world problems throu
 
 ## 🏦 Bank Management System
 
-Secure banking application built using Django.
+Secure banking web application developed using Django.
 
-✨ Features
+### Features
 
-* User Authentication
-* Secure Transactions
-* Account Management
-* Database Integration
+- Authentication & Authorization
+- Secure Transactions
+- Account Management
+- Responsive UI
 
-**Tech Stack:** Django • Python • MySQL
-
----
-
-## 🛡 Women Safety App
-
-A web application designed to enhance personal safety through emergency response features.
-
-✨ Features
-
-* Real-Time Safety Alerts
-* REST API Integration
-* Secure Backend
-* Emergency Support
-
-**Tech Stack:** Django • Python • REST APIs
+**Tech:** Python • Django • MySQL
 
 ---
 
-# 📈 Current Goals
+## 🛡 Women Safety Application
 
-* ✅ Solve DSA problems daily
-* ✅ Build impactful AI projects
-* ✅ Learn advanced Django & REST Framework
-* ✅ Contribute to Open Source
-* ✅ Crack Software Engineer interviews
+Real-time emergency response platform.
+
+### Features
+
+- Panic Alert System
+- REST APIs
+- Secure Backend
+- Emergency Assistance
+
+**Tech:** Django • Python • REST APIs
 
 ---
 
-# 📊 GitHub Analytics
+# 🌱 Currently Learning
+
+- Django REST Framework
+- Machine Learning
+- Software Engineering Concepts
+- Backend System Design
+- Cloud Fundamentals
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshi26-cyber&show_icons=true&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anshi26-cyber&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshi26-cyber&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshi26-cyber&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -127,11 +137,11 @@ A web application designed to enhance personal safety through emergency response
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anshi26-cyber&theme=radical&margin-w=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anshi26-cyber&theme=radical&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -147,22 +157,30 @@ A web application designed to enhance personal safety through emergency response
 
 ---
 
-# 💬 Quote
+# ⚡ Fun Fact
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+> I enjoy turning ideas into practical software and believe every project teaches something new.
 
 ---
 
-# 📫 Connect With Me
+# 💬 Favorite Quote
 
-<p>
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
 
-📧 **Email:** [akumari29539@gmail.com](mailto:akumari29539@gmail.com)
+---
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/anshika-kumari-7964b028a
+# 📫 Let's Connect
 
-🌐 **GitHub:**
+<p align="left">
+
+📧 **Email**  
+**akumari29539@gmail.com**
+
+💼 **LinkedIn**  
+https://linkedin.com/in/anshika-kumari-7964b028a
+
+🌐 **GitHub**  
 https://github.com/anshi26-cyber
 
 </p>
@@ -171,9 +189,9 @@ https://github.com/anshi26-cyber
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-*"Always learning, building, and improving one project at a time."*
+*"Keep learning. Keep building. Keep growing."*
 
 </p>
 
