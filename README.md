@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/anshi26-cyber?label=Followers&style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development%20withAI-blue?style=for-the-badge">
 </p>
 
 ---
